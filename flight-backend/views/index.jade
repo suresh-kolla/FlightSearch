@@ -1,0 +1,11 @@
+extends layout
+
+block content
+  h1= List.length
+  div
+    each item in List
+        ul
+          each val, index in item
+            li= index + ':' + val  
+                
+ 

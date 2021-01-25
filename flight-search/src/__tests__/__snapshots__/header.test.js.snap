@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header 1`] = `
+<div
+  className="App-header undefined"
+>
+  <h1
+    color="text-white"
+  >
+    Facebook
+  </h1>
+</div>
+`;
